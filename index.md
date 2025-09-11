@@ -10,6 +10,8 @@ Berikut ini adalah koleksi yang dimiliki:
 3. [Kamu Gak Sendiri](ebook/Kamu Gak Sendiri.pdf) - Syahid Muhammad (2019)
 4. [Marmut Merah Jambu](ebook/Marmut Merah Jambu.pdf) - Raditya Dika (2010)
 5. [Bintang](ebook/Bintang.pdf) - Tere Liye (2019)
+6. [Cantik Itu Luka](ebook/Cantik Itu Luka.pdf) - Eka Kurniawan (2015)
+7. [Ayah](ebook/Ayah.pdf) - Andrea Hirata (2015)
 
 ---
 
