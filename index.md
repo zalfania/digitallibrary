@@ -14,6 +14,9 @@ Berikut ini adalah koleksi yang dimiliki:
 7. [Ayah](ebook/Ayah.pdf) - Andrea Hirata (2015)
 8. [Pada Sebuah Kapal](ebook/Pada Sebuah Kapal.pdf) - Nh. Dini (2019)
 9. [Negeri 5 Menara](ebook/Negeri 5 Menara.pdf) - A. Fuadi (2009)
+10. [Membangun Jiwa Enterpreneur](ebook/Membangun Jiwa Enterpreneur.pdf) - Erick Muhammad Henrizal (2014)
+11. [Rangkuman Kuliah Umum](ebook/Rangkuman Kuliah Umum.pdf) - Zalfa Rahmania (2025)
+    
 ---
 
 *Powered by GitHub Pages*
