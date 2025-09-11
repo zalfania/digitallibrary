@@ -12,6 +12,7 @@ Berikut ini adalah koleksi yang dimiliki:
 5. [Bintang](ebook/Bintang.pdf) - Tere Liye (2019)
 6. [Cantik Itu Luka](ebook/Cantik Itu Luka.pdf) - Eka Kurniawan (2015)
 7. [Ayah](ebook/Ayah.pdf) - Andrea Hirata (2015)
+8. [Pada Sebuah Kapal] - Nh. Dini (1972)
 
 ---
 
