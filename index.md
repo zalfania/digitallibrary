@@ -7,7 +7,6 @@ Berikut ini adalah koleksi yang dimiliki:
 
 1. [Pada Senja yg membawamu pergi](ebook/Pada Senja yg membawamu pergi - Boy Candra.pdf) - Boy Candra (2016)
 2. [Laut Bercerita](ebook/Laut Bercerita.pdf) - Leila S. Chudori (2017)
-3. [Kamu Gak Sendiri](ebook/Kamu Gak Sendiri.pdf) - Syahid Muhammad (2019)
 
 ---
 
