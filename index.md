@@ -13,7 +13,7 @@ Berikut ini adalah koleksi yang dimiliki:
 6. [Cantik Itu Luka](ebook/Cantik Itu Luka.pdf) - Eka Kurniawan (2015)
 7. [Ayah](ebook/Ayah.pdf) - Andrea Hirata (2015)
 8. [Pada Sebuah Kapal](ebook/Pada Sebuah Kapal.pdf) - Nh. Dini (2019)
-
+9. [Negeri 5 Menara](ebook/Negeri 5 Menara.pdf) - A. Fuadi (2009)
 ---
 
 *Powered by GitHub Pages*
