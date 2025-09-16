@@ -18,6 +18,12 @@ Berikut ini adalah koleksi yang dimiliki:
 11. [Rangkuman Kuliah Umum](ebook/Rangkuman Kuliah Umum.pdf) - Zalfa Rahmania (2025)
     
 ---
-<a href="webti/halaman1.html">Halaman 1</a>
+<a href="halaman1.html">Halaman 1</a>|
+<a href="halaman2.html">Halaman 2</a>|
+<a href="halaman3.html">Halaman 3</a>|
+<a href="halaman3.html">Halaman 4</a>|
+<a href="halaman3.html">Halaman 5</a>|
+<a href="halaman3.html">Halaman 6</a>|
+<a href="halaman4.html">Halaman 7</a></p>
 
 *Powered by GitHub Pages*
