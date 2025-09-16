@@ -18,5 +18,5 @@ Berikut ini adalah koleksi yang dimiliki:
 11. [Rangkuman Kuliah Umum](ebook/Rangkuman Kuliah Umum.pdf) - Zalfa Rahmania (2025)
     
 ---
-
+https://github.com/zalfania/digitallibrary/blob/main/webti/halaman1.html
 *Powered by GitHub Pages*
