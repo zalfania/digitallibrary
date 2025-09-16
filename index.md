@@ -24,6 +24,6 @@ Berikut ini adalah koleksi yang dimiliki:
 <a href="halaman3.html">Halaman 4</a>|
 <a href="halaman3.html">Halaman 5</a>|
 <a href="halaman3.html">Halaman 6</a>|
-<a href="halaman4.html">Halaman 7</a><
+<a href="halaman4.html">Halaman 7</a>
 
 *Powered by GitHub Pages*
